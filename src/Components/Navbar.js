@@ -18,7 +18,7 @@ const useStyles = makeStyles((theme) => ({
   },
   textDec: {
     textDecoration: "none",
-    color: "white"
+    color: #D8D8D8
   }
 }));
 
