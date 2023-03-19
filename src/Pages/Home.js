@@ -44,7 +44,7 @@ export default function Home() {
         <Navbar />
         <Container className={classes.container}>
           <Button variant='contained' color='primary' >
-            <Link to='/post-job' className={classes.btn} >Post A Job</Link>
+            <Link to='/post-job' className={classes.btn} >Post A Naukari</Link>
           </Button>
         </Container>
     </>
